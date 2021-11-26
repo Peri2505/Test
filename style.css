@@ -1,0 +1,63 @@
+.primary{
+    background-color:lightskyblue;
+    color: seashell;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-radius: 4px;
+    padding: 8px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0px;
+
+
+}
+.join{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.secondary{
+    background-color: grey;
+    color: white;
+    border-radius: 4px;
+    padding: 18px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 0px;
+    
+
+
+}
+
+.success{
+    background-color: green;
+    color: white;border-radius: 20px;
+    padding: 8px;
+    font-size: 20px;
+    font-family:unset;
+    border: 0px;
+
+    
+}
+.error{
+    background-color: red;
+    color: wheat;
+    padding: 13px;
+    border: 0px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 8px;
+
+}
+.warning{
+    background-color: yellow;
+    color: black;
+    padding: 15px;
+    border: 0px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+    border-radius: 10px;
+}
